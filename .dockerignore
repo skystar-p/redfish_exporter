@@ -1,0 +1,11 @@
+Dockerfile
+Dockerfile.*
+LICENSE
+README.md
+*.pdf
+.git
+.dockerignore
+scripts
+Changelog
+config.yml
+config.yml.example
